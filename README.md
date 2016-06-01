@@ -1,1 +1,1 @@
-# theme_ashui
+# Typcho Theme Try
